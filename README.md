@@ -45,9 +45,9 @@ Los gráficos, pruebas estadísticas y conclusiones están documentados dentro d
    ```bash
    git clone https://github.com/DANTEDUPEYRON21/proyecto-analisis-usuarios.git
 
+## 👨‍💻 Autor  
+**Dante Dupeyron Puig**  
+- [LinkedIn](https://www.linkedin.com/in/dantedupeyron/)  
+- [GitHub](https://github.com/DANTEDUPEYRON21)  
 
-🧑‍💻 Autor
-Dante Dupeyron Puig
-
-[linkedin]([https://link.com](https://www.linkedin.com/in/dantedupeyron/))
 
