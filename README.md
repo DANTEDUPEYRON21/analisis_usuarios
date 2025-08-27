@@ -34,6 +34,6 @@ Ejecuta las celdas del notebook.
 
 🧑‍💻 Autor
 Dante Dupeyron Puig
-LinkedIn
 
-GitHub
+[linkedin]([https://link.com](https://www.linkedin.com/in/dantedupeyron/))
+
